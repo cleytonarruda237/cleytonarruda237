@@ -16,24 +16,9 @@
 ### Main skills:
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
  
-### Tools:
-
-
 ### AI Tools & Assistants:
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-0D1117?style=for-the-badge&logo=googlegemini&logoColor=8E75B2&labelColor=0D1117)&nbsp;
  
-### Other Knowledge:
-
-
-  
-### Studying in this moment:
-
-
-<!-- <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusAlvarez}/count.svg" /></p> 
-<br></div> -->
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0541ff&height=120&section=footer"/>
 
